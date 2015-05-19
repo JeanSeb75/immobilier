@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding:0;
+    background-color: #f7f7f7;
+    width: 960px;
+}
+
+.main{
+    background-color: #f7f7f7;
+    margin: 0 0 0 2%;
+}
+
+label{
+    margin:1% 1% 0 0;
+    width: 210px;
+}
